@@ -5,7 +5,7 @@ Project web dev with Flask framework
 # Web
 use  back-end python flask framework, front-end bootstrap framework
 
-venv {
+# venv {
   click==8.1.3
   colorama==0.4.5        
   Flask==2.1.3
